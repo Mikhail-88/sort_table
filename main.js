@@ -24,6 +24,7 @@ const cars = [
 ];
 
 const carsConteiner = document.querySelector("#cars");
+
 creatTable(carsConteiner, cars);
 
 function creatTable(element, cars) {
